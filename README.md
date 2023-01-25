@@ -1,4 +1,4 @@
-# Okky's WEB Design
+# WAREG
 
 > This is my assignment for w2-my-web-design
 
@@ -6,15 +6,17 @@
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl,  eget aliquam nisl nisl sit amet nisl.
 
-## Visit my Project
-![]()
+## My Project
+![](https://res.cloudinary.com/djudfrj8s/image/upload/v1674663594/Wareg-Hero-Section_n91uag.png)
 
 
 
 
 ## Technologies & Tools
 
-![]()
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
 ### Color Reference
