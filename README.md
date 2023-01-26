@@ -2,8 +2,6 @@
 
 > This is my assignment for week 2 - my web design
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl. Donec auctor, nisl eget ultricies tincidunt, nisl nisl aliquam nisl, eget aliquam nisl nisl sit amet nisl.
-
 ## My Project
 
 ![](https://res.cloudinary.com/djudfrj8s/image/upload/v1674663594/Wareg-Hero-Section_n91uag.png)
@@ -33,13 +31,13 @@ But that's not all, the word "Wareg" has a special meaning in Javanese language,
 
 ### Color Reference
 
-| Color              |      Hex |
-| :----------------- | -------: |
-| White              | ##FFFFFF |
-| Baby Powder        |  #FCFDFF |
-| Anti-Flash White   | ##EEF6F4 |
-| Winter green dream | ##0B281F |
-| Dark Green         |  #0B281F |
+| Color Name         |     Hex |
+| :----------------- | ------: |
+| White              | #FFFFFF |
+| Baby Powder        | #FCFDFF |
+| Anti-Flash White   | #EEF6F4 |
+| Winter green dream | #0B281F |
+| Dark Green         | #0B281F |
 
 ### Font Reference
 
