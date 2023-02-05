@@ -2,6 +2,8 @@
 
 > This is my assignment for week 2 - my web design
 
+This week assignment is to create a website design with a focus on UI and UX. The task involves creating a simple wireframe and creating UI and UX design of a simple website. The UI design includes designing the layout, text content, and image content of the homepage, about page, and contact page. The UX design involves creating a prototype that links different pages to create a user journey. The final outcome should be a simple web design UI and UX prototype.
+
 ## My Project
 
 ![](https://res.cloudinary.com/djudfrj8s/image/upload/v1674663594/Wareg-Hero-Section_n91uag.png)
